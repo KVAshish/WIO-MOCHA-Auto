@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Verify whether Login works correctly",
+    "children" : [ {
+      "name" : "check that user able to Login the Online Banking",
+      "uid" : "c74b0e027e84a16c",
+      "parentUid" : "ac51fefa6909fbb7a285fb5730da5f57",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621925396286,
+        "stop" : 1621925410088,
+        "duration" : 13802
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.212" ]
+    } ],
+    "uid" : "ac51fefa6909fbb7a285fb5730da5f57"
+  } ]
+}

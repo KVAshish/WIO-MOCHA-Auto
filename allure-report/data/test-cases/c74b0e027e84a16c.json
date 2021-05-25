@@ -1,0 +1,58 @@
+{
+  "uid" : "c74b0e027e84a16c",
+  "name" : "check that user able to Login the Online Banking",
+  "fullName" : "Verify whether Login works correctly.check that user able to Login the Online Banking",
+  "historyId" : "46cead98a747adab8adf3fe7bb009cf8",
+  "time" : {
+    "start" : 1621925396286,
+    "stop" : 1621925410088,
+    "duration" : 13802
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Verify whether Login works correctly"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify whether Login works correctly"
+  }, {
+    "name" : "testMethod",
+    "value" : "check that user able to Login the Online Banking"
+  }, {
+    "name" : "package",
+    "value" : "Verify whether Login works correctly"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-90.0.4430.212"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c74b0e027e84a16c.json",
+  "parameterValues" : [ "chrome-90.0.4430.212" ]
+}

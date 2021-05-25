@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue May 25 12:19:56 IST 2021","Tue May 25 12:20:10 IST 2021","13802","","Verify whether Login works correctly","","Verify whether Login works correctly","check that user able to Login the Online Banking","check that user able to Login the Online Banking",""

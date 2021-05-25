@@ -1,0 +1,11 @@
+[ {
+  "uid" : "c74b0e027e84a16c",
+  "name" : "check that user able to Login the Online Banking",
+  "time" : {
+    "start" : 1621925396286,
+    "stop" : 1621925410088,
+    "duration" : 13802
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

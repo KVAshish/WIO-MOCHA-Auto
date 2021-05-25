@@ -1,0 +1,22 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Verify whether Login works correctly",
+    "children" : [ {
+      "name" : "check that user able to Login the Online Banking",
+      "uid" : "c74b0e027e84a16c",
+      "parentUid" : "fb0937f2336b0a2ab2c92a2998fcf401",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621925396286,
+        "stop" : 1621925410088,
+        "duration" : 13802
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.212" ]
+    } ],
+    "uid" : "fb0937f2336b0a2ab2c92a2998fcf401"
+  } ]
+}
