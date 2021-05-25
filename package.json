@@ -9,6 +9,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@babel/cli": "^7.14.3",
+    "@babel/core": "^7.14.3",
+    "@babel/preset-env": "^7.14.2",
+    "@babel/register": "^7.13.16",
     "@types/webdriverio": "^5.0.0",
     "@wdio/allure-reporter": "^7.6.0",
     "@wdio/cli": "^7.6.0",
@@ -21,6 +25,7 @@
     "allure-commandline": "^2.13.8",
     "chai": "^4.3.4",
     "chromedriver": "^90.0.1",
+    "loglevel-plugin-prefix": "^0.8.4",
     "sync-request": "^6.1.0",
     "wdio-chromedriver-service": "^7.1.0"
   },
